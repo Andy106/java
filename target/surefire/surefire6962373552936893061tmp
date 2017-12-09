@@ -1,0 +1,5 @@
+#surefire
+#Sun Nov 05 06:46:21 PST 2017
+user.dir=/home/training/.eclipse_workspace/maven-demo
+localRepository=/home/training/.m2/repository
+basedir=/home/training/.eclipse_workspace/maven-demo
